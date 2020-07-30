@@ -1,0 +1,3 @@
+Leaflet: https://leafletjs.com/download.html
+Libreria GeoJSON: https://www.npmjs.com/package/geojson
+Documentacion adicional: http://132.72.155.230:3838/js/geojson-1.html#geojson-structure
